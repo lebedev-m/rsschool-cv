@@ -1,5 +1,1 @@
-feat: add basic page layout
-
-fix: implement correct loading data from youtube
-
-refactor: change structure of the project
+https://lebedev-m.github.io/rsschool-cv/cv
